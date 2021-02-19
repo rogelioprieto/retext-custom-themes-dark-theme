@@ -1,4 +1,8 @@
-# ~/.config/ReText project/github.css
+/*~/.config/ReText project/github.css*/
+
+.zoom {
+  zoom: 150%;
+}
 
 body
 {
